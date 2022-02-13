@@ -17,12 +17,17 @@
 - PHP
 
 # Services
+- Website Development (Responsive & Mobile Friendly)
+- Landing Page Development
+- Ecommerce websites
+- Website Redesign
+- Clone any wordpress website into other domain
+- Responsive UI Design, Webflow
+- PSD, XD, Sketch, Figma to HTML/CSS
+- Server Administration: WHM, Cpanel
+- Custom Email Template
 - Create Wordpress websites
-- Convert PSD/JPG to HTML
-- Create beautiful landing pages with the help of CSS and JS
-- Create pages and blocks on Magento2
-- Create phtml files in Magento2 and can connect to blocks
-- Create customize websites
+- Customization of Magento2 including blocks, pages, phtml files, translation files etc...
 
 
 <!---
