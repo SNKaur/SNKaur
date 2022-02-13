@@ -20,9 +20,10 @@
 - Create Wordpress websites
 - Convert PSD/JPG to HTML
 - Create beautiful landing pages with the help of CSS and JS
-- Create pages and static blocks on Magento2
+- Create pages and blocks on Magento2
 - Create phtml files in Magento2 and can connect to blocks
 - Create customize websites
+
 
 <!---
 SNKaur/SNKaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
