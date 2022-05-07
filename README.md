@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sandeep Kaur
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently working on Magento2 platform as Frontend developer
-- 💞️ I’m looking to collaborate on Front-end Developer
+- 💞️ I’m looking to work as Front-end Developer
 - 📫 You can reach me at san_tech05@outlook.com
 
 # Skills:
